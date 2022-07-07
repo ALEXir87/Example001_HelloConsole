@@ -1,0 +1,15 @@
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.exe
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.deps.json
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.runtimeconfig.json
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.dll
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.pdb
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.AssemblyReference.cache
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfo.cs
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.dll
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example001_HelloConsole\obj\Debug\net6.0\refint\Example001_HelloConsole.dll
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.pdb
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.genruntimeconfig.cache
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example001_HelloConsole\obj\Debug\net6.0\ref\Example001_HelloConsole.dll
