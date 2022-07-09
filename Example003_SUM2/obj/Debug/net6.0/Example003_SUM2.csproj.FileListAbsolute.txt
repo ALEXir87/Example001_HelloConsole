@@ -1,0 +1,15 @@
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example003_SUM2\obj\Debug\net6.0\Example003_SUM2.csproj.AssemblyReference.cache
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example003_SUM2\obj\Debug\net6.0\Example003_SUM2.GeneratedMSBuildEditorConfig.editorconfig
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example003_SUM2\obj\Debug\net6.0\Example003_SUM2.AssemblyInfoInputs.cache
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example003_SUM2\obj\Debug\net6.0\Example003_SUM2.AssemblyInfo.cs
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example003_SUM2\obj\Debug\net6.0\Example003_SUM2.csproj.CoreCompileInputs.cache
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example003_SUM2\bin\Debug\net6.0\Example003_SUM2.exe
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example003_SUM2\bin\Debug\net6.0\Example003_SUM2.deps.json
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example003_SUM2\bin\Debug\net6.0\Example003_SUM2.runtimeconfig.json
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example003_SUM2\bin\Debug\net6.0\Example003_SUM2.dll
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example003_SUM2\bin\Debug\net6.0\Example003_SUM2.pdb
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example003_SUM2\obj\Debug\net6.0\Example003_SUM2.dll
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example003_SUM2\obj\Debug\net6.0\refint\Example003_SUM2.dll
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example003_SUM2\obj\Debug\net6.0\Example003_SUM2.pdb
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example003_SUM2\obj\Debug\net6.0\Example003_SUM2.genruntimeconfig.cache
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\1.Лекции\3л.Знакомство с языками рограммирования\Examples\Example003_SUM2\obj\Debug\net6.0\ref\Example003_SUM2.dll
