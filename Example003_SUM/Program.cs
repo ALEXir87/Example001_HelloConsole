@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Задача№1 сложение двух чисел ");
-System.Int32 numberA = 2;
-System.Int32 numberB = 3;
+﻿int numberA = new Random().Next(1, 10); // 1.......9
+Console.WriteLine(numberA);
+int numberB = new Random().Next(1, 10);
+Console.WriteLine(numberB);
 Console.WriteLine(numberA + numberB);
